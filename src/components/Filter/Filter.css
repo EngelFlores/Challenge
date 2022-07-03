@@ -1,0 +1,30 @@
+.filter {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+}
+
+.filter-button{
+  border: 0;
+  width: 100%;
+  background-color: white;
+  height: 40px;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.filter-list-container {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  margin-top: 5px;
+  border-radius: 30px;
+}
+
+.show {
+  display: block;
+}

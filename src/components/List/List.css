@@ -1,0 +1,20 @@
+.filters {
+  display: grid;
+  grid-template-columns: 4fr 1fr 1fr 1fr;
+  gap: 50px;
+  background-color: rgba(224, 222, 222, 0.35);
+  padding: 15px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+.title {
+  font-size: 25px;
+  padding: 20px;
+}
+
+.list {
+  padding: 20px;
+  width: 100%;
+}
+

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render reset button Component match snapshot 1`] = `
+<button
+  class="reset-button"
+  data-testid="reset-button"
+>
+  Reset all filter
+</button>
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render filter button Component match snapshot 1`] = `
+<button
+  class="filter-button"
+  data-testid="filter-button"
+>
+  Status
+</button>
+`;
