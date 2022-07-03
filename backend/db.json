@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 329,
+      "firstName": "Leona",
+      "lastName": "Mabone",
+      "email": "lmabone0@vistaprint.com",
+      "primaryGroup": "diam",
+      "hoursStudied": 4084,
+      "phoneNumber": "406-213-7371",
+      "status": "active"
+    }, {
+      "id": 489,
+      "firstName": "Rudolfo",
+      "lastName": "Ruddell",
+      "email": "rruddell1@ca.gov",
+      "primaryGroup": "turpis sed",
+      "hoursStudied": 2226,
+      "phoneNumber": "416-842-0829",
+      "status": "pending"
+    }, {
+      "id": 754,
+      "firstName": "Beryl",
+      "lastName": "Raraty",
+      "email": "braraty2@google.ca",
+      "primaryGroup": "quis turpis",
+      "hoursStudied": 125,
+      "phoneNumber": "296-263-7160",
+      "status": "declined"
+    }, {
+      "id": 551,
+      "firstName": "Sayers",
+      "lastName": "Goldsack",
+      "email": "sgoldsack3@state.gov",
+      "primaryGroup": "in lectus",
+      "hoursStudied": 1783,
+      "phoneNumber": "667-482-7503",
+      "status": "closed"
+    }, {
+      "id": 564,
+      "firstName": "Misha",
+      "lastName": "Wakelin",
+      "email": "mwakelin4@studiopress.com",
+      "primaryGroup": "eu est",
+      "hoursStudied": 1256,
+      "phoneNumber": "701-373-4228",
+      "status": "closed"
+    }, {
+      "id": 836,
+      "firstName": "Bridie",
+      "lastName": "Whyley",
+      "email": "bwhyley5@epa.gov",
+      "primaryGroup": "in",
+      "hoursStudied": 3382,
+      "phoneNumber": "694-754-2399",
+      "status": "declined"
+    }, {
+      "id": 960,
+      "firstName": "Jobye",
+      "lastName": "Pactat",
+      "email": "jpactat6@twitpic.com",
+      "primaryGroup": "eget massa",
+      "hoursStudied": 3643,
+      "phoneNumber": "127-284-0286",
+      "status": "pending"
+    }, {
+      "id": 293,
+      "firstName": "Debee",
+      "lastName": "Veck",
+      "email": "dveck7@weibo.com",
+      "primaryGroup": "massa",
+      "hoursStudied": 4507,
+      "phoneNumber": "334-650-4943",
+      "status": "active"
+    }
+  ]
+}
