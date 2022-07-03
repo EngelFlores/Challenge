@@ -1,18 +1,31 @@
+# Question ID - 2.A 
+
+## Challange Description:
+
+Design a basic web app or react native app, In which you have to implement sorting and filter options, for data you can use any third-party API’s
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setting it Up
+
+- You will need `json-server`, you can learn more about it [here](https://github.com/typicode/json-server);
+- You can install running npm `install -g json-server`
 ## Available Scripts
+
+In the backend directory, you can run and you can change the port:
+
+### `json-server --watch db.json --port 3001`
 
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Runs the app in the development mode.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.
 
 ### `npm test`
 
